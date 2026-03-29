@@ -104,7 +104,7 @@ This project helped me develop essential digital skills and improved my ability 
 
 ##  Submission
 
- **GitHub Repository Link:**
+ **GitHub Repository Link:**https://github.com/tanishqraghuwanshi678-afk/Digital-Literacy-Report
 
 ---
 
